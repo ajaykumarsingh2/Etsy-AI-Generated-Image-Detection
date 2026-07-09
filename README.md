@@ -1,6 +1,8 @@
+# AI-Generated Image Detection (Etsy Marketplace)
 
-# AI-Generated Image Detection (Etsy)
-Tech: Python, PyTorch, MobileNetV2, CNN.
-Goal: Detect synthetic images to prevent marketplace fraud.
-Result: Achieved F1-Score: 0.7719 using transfer learning and 0.65 threshold optimization.
-Report: [Link to your PDF file in the repo]
+### Key Highlights:
+- **Tech Stack:** Python, PyTorch, MobileNetV2, CNN.
+- **Objective:** Developing a high-precision binary classifier to identify AI-generated images vs authentic listings.
+- **Methodology:** Fine-tuned the final 40 layers of MobileNetV2 with an optimized resolution of 224x224.
+- **Results:** Achieved a final **F1-Score of 0.7719** using a Threshold Grid-Search (0.65).
+- **Project Report:** [View PDF Report](Ajay_Singh_AI_Detection_Documentation.pdf)
