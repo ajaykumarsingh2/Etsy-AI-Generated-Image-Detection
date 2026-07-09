@@ -1,0 +1,1 @@
+# Etsy-AI-Generated-Image-Detection
